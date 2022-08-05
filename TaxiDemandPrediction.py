@@ -1,8 +1,3 @@
-# This is the submission from:
-#Anirudh Thakur - axt190073
-#Khushbu Sharma - krs200001
-#Shubham Singh - sxs190413
-#Vedant Nibandhe - vxn200012
 import pandas as pd
 import matplotlib.pyplot as plt
 import math
